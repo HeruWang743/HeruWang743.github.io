@@ -4,6 +4,8 @@ I am Heru Wang, a first-year graduate student at Cornell University. My major is
 
 
 ## EDUCATION BACKGROUND
+
+
 College of Engineering, Cornell University | Master of Engineering in Financial Engineering 
 
 2021.8 – 2022.12
@@ -23,6 +25,8 @@ MajorGPA:3.90/4.00
 Relevant Coursework: Data Analysis and Statistical Software, Time Series Analysis, Mathematical Methods in Finance
 
 ## INTERNSHIP EXPERIENCE
+
+
 KWAI Technology Co., Ltd. | Data Analysis Intern | Beijing 
 
 2021.1 – 2021.7 
